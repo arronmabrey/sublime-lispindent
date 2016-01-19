@@ -1,7 +1,7 @@
 {
 	"languages": {
 		"clojure": {
-			"detect": ".*\\.(clj|cljs|edn)$",
+			"detect": ".*\\.(clj|cljs|cljc|edn)$",
 			"syntax": "Clojure.tmLanguage",
 			"default_indent": "function",
 			"regex":
